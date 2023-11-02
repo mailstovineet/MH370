@@ -1,0 +1,80 @@
+body{
+text-align:center;
+background-color:#20214F;
+}
+h1{
+font-size:50px;
+color:white;    
+}
+h4{
+font-size:18px;
+font-family: 'Dosis', sans-serif;    
+}
+img{
+ width:40%;   
+}
+#homepage{
+    background-image:url("images.jfif");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+p{
+    color:white;
+    font-size:20px;
+}
+#secondpage{
+    background: linear-gradient(#183ed6,#10e650);
+}
+.nav_div{
+    font-size:20px;
+    color:red;
+    padding-top:20px;
+    border:2px dashed white;
+}
+.nav_1{
+    list-style:circle;
+    width:100%;
+    margin-top:0px;
+    background:linear-gradient(blue,black);
+    cursor:pointer;
+    position:fixed;
+    top:0px;
+    
+}
+a{
+    color:red;
+}
+#a1{
+    font-size:30px;
+    color:darkslateblue;
+}
+#video_section{
+    background:linear-gradient(yellow,orange)
+}
+#wikipedia_albert_einstein{
+    background:linear-gradient(rgb(0, 255, 149),orange)
+}
+#news{
+    background:linear-gradient(rgb(0, 17, 255),rgb(0, 255, 221))
+}
+.line{
+    height:10px;
+    background-color:black;
+    width:200px;
+    margin:50px auto;
+
+}
+#map{
+    background:linear-gradient(red,violet);
+}
+.item:hover{
+    font-size:30px;
+}
+.nav_1{
+    position:sticky;
+    top:0px;
+}
+#d_i_v{
+  background:linear-gradient(to top left, blue,black);
+  color:chartreuse;
+}
